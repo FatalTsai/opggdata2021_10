@@ -1,0 +1,141 @@
+{
+  "PSG": {
+    "Hanabi": [
+      "./output/PSG/Hanabi/Kafuu chin0.csv",
+      "./output/PSG/Hanabi/NaruseSh1roha.csv",
+      "./output/PSG/Hanabi/shirakami fubuk1.csv"
+    ],
+    "River": [
+      "./output/PSG/River/Icelandwinter.csv",
+      "./output/PSG/River/la ji game.csv",
+      "./output/PSG/River/River9.csv"
+    ],
+    "Maple": [
+      "./output/PSG/Maple/Slowly Song.csv",
+      "./output/PSG/Maple/Viikingr.csv"
+    ],
+    "Unified": [
+      "./output/PSG/Unified/2021Worlds0076.csv",
+      "./output/PSG/Unified/kcvawsreiuyopdgz.csv",
+      "./output/PSG/Unified/suo lan.csv"
+    ],
+    "Kaiwing": [
+      "./output/PSG/Kaiwing/EatDIE EATdie.csv",
+      "./output/PSG/Kaiwing/YTSearch Hanabi.csv",
+      "./output/PSG/Kaiwing/아이마스 타카네.csv"
+    ],
+    "Kartis": [
+      "./output/PSG/Kartis/HeIsinki.csv",
+      "./output/PSG/Kartis/Trisak.csv"
+    ],
+    "Helper": [
+      "./output/PSG/Helper/PSG Helper.csv"
+    ],
+    "Winged": [
+      "./output/PSG/Winged/2021Worlds0080.csv"
+    ]
+  },
+  "RNG": {
+    "Xiaohu": [
+      "./output/RNG/Xiaohu/bei feng hu hu.csv",
+      "./output/RNG/Xiaohu/lucky iceland.csv"
+    ],
+    "Wei": [
+      "./output/RNG/Wei/2021Worlds.csv",
+      "./output/RNG/Wei/mnbvcxze.csv",
+      "./output/RNG/Wei/mnbvcxzs.csv"
+    ],
+    "Cryin": [
+      "./output/RNG/Cryin/1234564321.csv",
+      "./output/RNG/Cryin/Karzzy11.csv"
+    ],
+    "GALA": [
+      "./output/RNG/GALA/2021Worlds0171.csv",
+      "./output/RNG/GALA/kxnmb.csv",
+      "./output/RNG/GALA/xiguazhi.csv"
+    ],
+    "Ming": [
+      "./output/RNG/Ming/freeze5.csv",
+      "./output/RNG/Ming/songqingliu gdlk.csv"
+    ],
+    "Yuekai": [
+      "./output/RNG/Yuekai/Canvas Townlet.csv",
+      "./output/RNG/Yuekai/Mohe dance hall.csv"
+    ],
+    "Poppy": [
+      "./output/RNG/Poppy/yuekai is pig.csv"
+    ]
+  },
+  "HLE": {
+    "Morgan": [
+      "./output/HLE/Morgan/EWrRS.csv",
+      "./output/HLE/Morgan/Star is coming.csv",
+      "./output/HLE/Morgan/미소의눈동자.csv"
+    ],
+    "Willer": [
+      "./output/HLE/Willer/HLE Willer.csv",
+      "./output/HLE/Willer/White Whales.csv"
+    ],
+    "Chovy": [
+      "./output/HLE/Chovy/Shrimp Shark.csv",
+      "./output/HLE/Chovy/자장면잠봉당수육.csv",
+      "./output/HLE/Chovy/화원 아기.csv"
+    ],
+    "Deft": [
+      "./output/HLE/Deft/IcelandWalrus.csv",
+      "./output/HLE/Deft/가나라마아바.csv",
+      "./output/HLE/Deft/항상배고픈코그모.csv"
+    ],
+    "Vsta": [
+      "./output/HLE/Vsta/wow cold.csv",
+      "./output/HLE/Vsta/비이스타.csv",
+      "./output/HLE/Vsta/심리 건들지마.csv"
+    ],
+    "DuDu": [
+      "./output/HLE/DuDu/bie mo wo.csv",
+      "./output/HLE/DuDu/Im fine thx you.csv",
+      "./output/HLE/DuDu/따봉 람머스.csv"
+    ],
+    "yoHan": [
+      "./output/HLE/yoHan/15gggggggggg.csv",
+      "./output/HLE/yoHan/asdasdafasf0802.csv",
+      "./output/HLE/yoHan/Orange Killer.csv"
+    ],
+    "Sudal": [
+      "./output/HLE/Sudal/La Plata Otter.csv"
+    ]
+  },
+  "FNC": {
+    "Adam": [
+      "./output/FNC/Adam/Cléophé lpb.csv",
+      "./output/FNC/Adam/me like solobolo.csv",
+      "./output/FNC/Adam/Sigmα Grindset.csv"
+    ],
+    "Bwipo": [
+      "./output/FNC/Bwipo/Chongus.csv",
+      "./output/FNC/Bwipo/everything to me.csv",
+      "./output/FNC/Bwipo/for her sake.csv",
+      "./output/FNC/Bwipo/Wide Canyon.csv"
+    ],
+    "Nisqy": [
+      "./output/FNC/Nisqy/chomaker.csv",
+      "./output/FNC/Nisqy/FNC Nisqybaba.csv"
+    ],
+    "Upset": [
+      "./output/FNC/Upset/FNC Deft12.csv",
+      "./output/FNC/Upset/FNC Upset13.csv",
+      "./output/FNC/Upset/Meruem12.csv"
+    ],
+    "Hylissang": [
+      "./output/FNC/Hylissang/FNC Hylissang.csv",
+      "./output/FNC/Hylissang/FNC Hylissangg.csv"
+    ],
+    "YamatoCannon": [
+      "./output/FNC/YamatoCannon/2021Worlds0048.csv"
+    ],
+    "Bean": [
+      "./output/FNC/Bean/bean3.csv",
+      "./output/FNC/Bean/Beanovich.csv"
+    ]
+  }
+}
